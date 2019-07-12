@@ -1,0 +1,9 @@
+C:\Users\egavrishin\Desktop\EnglishLab_WindowsApplication\EnglishLab\bin\Release\EnglishLab.exe.config
+C:\Users\egavrishin\Desktop\EnglishLab_WindowsApplication\EnglishLab\bin\Release\EnglishLab.exe
+C:\Users\egavrishin\Desktop\EnglishLab_WindowsApplication\EnglishLab\bin\Release\EnglishLab.pdb
+C:\Users\egavrishin\Desktop\EnglishLab_WindowsApplication\EnglishLab\obj\Release\EnglishLab.csprojResolveAssemblyReference.cache
+C:\Users\egavrishin\Desktop\EnglishLab_WindowsApplication\EnglishLab\obj\Release\EnglishLab.Properties.Resources.resources
+C:\Users\egavrishin\Desktop\EnglishLab_WindowsApplication\EnglishLab\obj\Release\EnglishLab.csproj.GenerateResource.cache
+C:\Users\egavrishin\Desktop\EnglishLab_WindowsApplication\EnglishLab\obj\Release\EnglishLab.csproj.CoreCompileInputs.cache
+C:\Users\egavrishin\Desktop\EnglishLab_WindowsApplication\EnglishLab\obj\Release\EnglishLab.exe
+C:\Users\egavrishin\Desktop\EnglishLab_WindowsApplication\EnglishLab\obj\Release\EnglishLab.pdb

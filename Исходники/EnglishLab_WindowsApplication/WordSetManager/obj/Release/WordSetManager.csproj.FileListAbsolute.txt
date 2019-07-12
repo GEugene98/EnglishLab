@@ -1,0 +1,12 @@
+C:\Users\egavrishin\Desktop\EnglishLab_WindowsApplication\WordSetManager\bin\Release\WordSetManager.dll
+C:\Users\egavrishin\Desktop\EnglishLab_WindowsApplication\WordSetManager\bin\Release\WordSetManager.pdb
+C:\Users\egavrishin\Desktop\EnglishLab_WindowsApplication\WordSetManager\obj\Release\WordSetManager.csprojResolveAssemblyReference.cache
+C:\Users\egavrishin\Desktop\EnglishLab_WindowsApplication\WordSetManager\obj\Release\WordSetManager.csproj.CoreCompileInputs.cache
+C:\Users\egavrishin\Desktop\EnglishLab_WindowsApplication\WordSetManager\obj\Release\WordSetManager.dll
+C:\Users\egavrishin\Desktop\EnglishLab_WindowsApplication\WordSetManager\obj\Release\WordSetManager.pdb
+C:\Users\egavrishin\Desktop\Исходники\EnglishLab_WindowsApplication\WordSetManager\bin\Release\WordSetManager.dll
+C:\Users\egavrishin\Desktop\Исходники\EnglishLab_WindowsApplication\WordSetManager\bin\Release\WordSetManager.pdb
+C:\Users\egavrishin\Desktop\Исходники\EnglishLab_WindowsApplication\WordSetManager\obj\Release\WordSetManager.csprojResolveAssemblyReference.cache
+C:\Users\egavrishin\Desktop\Исходники\EnglishLab_WindowsApplication\WordSetManager\obj\Release\WordSetManager.csproj.CoreCompileInputs.cache
+C:\Users\egavrishin\Desktop\Исходники\EnglishLab_WindowsApplication\WordSetManager\obj\Release\WordSetManager.dll
+C:\Users\egavrishin\Desktop\Исходники\EnglishLab_WindowsApplication\WordSetManager\obj\Release\WordSetManager.pdb

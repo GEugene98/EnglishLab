@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MainModule.Presenters.MainViewPresenter" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAEIQAAAAAAgAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Presenters\MainViewPresenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainModule.Presenters.WordCardsPresenter" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAgAAAAAgAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Presenters\WordCardsPresenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainModule.Program" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainModule.Properties.Resources" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAEAAACAAAAAAAAAQEgBGhAACRoGICAEBAAARCAAJIE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainModule.Properties.Settings" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainModule.Views.Dashboard" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAACAACIKAAAAAAAACAAAAnAAAAAAEAQBCBAIAAQAA=</HashCode>
+      <FileName>Views\Dashboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainModule.Views.MainView" BaseTypeListCollapsed="true">
+    <Position X="18" Y="0.75" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>G5GAA0GQQCwXSDgHBXmKcQCCkEDYCmjBw+kEkwRg3Ck=</HashCode>
+      <FileName>Views\MainView.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.148" Collapsed="true" />
+  </Class>
+  <Class Name="MainModule.Views.MessageView" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Views\MessageView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainModule.Views.WordBuilderView" BaseTypeListCollapsed="true">
+    <Position X="9.5" Y="0.75" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAUQACAgAAAAAAKAAAACAAAAIEAQAAAAAARIACA=</HashCode>
+      <FileName>Views\WordBuilderView.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.148" Collapsed="true" />
+  </Class>
+  <Class Name="MainModule.Views.WordCardsView" BaseTypeListCollapsed="true">
+    <Position X="13.5" Y="0.75" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>UCUEAASAACQgAAAKAgKQBAICQACAAEQAAAAAAQYAACA=</HashCode>
+      <FileName>Views\WordCardsView.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.162" Collapsed="true" />
+  </Class>
+  <Class Name="MainModule.Views.WordTestView" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GAAAAAQABCAAAAAAAgCAAAACAACAAEAAAEAAACQAACA=</HashCode>
+      <FileName>Views\WordTestView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="MainModule.Views.IMainView">
+    <Position X="15.75" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>CxGAA0AAQAQSAAgGAAgAQQCCEABAAgABAQAEAgAAEAA=</HashCode>
+      <FileName>Views\IMainView.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MainModule.Views.IWordBuilderView">
+    <Position X="7.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAIAAAAAAAAAIAAQAAAAAAAIAAA=</HashCode>
+      <FileName>Views\IWordBuilderView.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MainModule.Views.IWordCardsView">
+    <Position X="11.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUEAAAAAAAgAAAKAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\IWordCardsView.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
